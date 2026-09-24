@@ -23,9 +23,9 @@ Answered before anything runs. Claude writes them in as you said them, and they 
 
 Code: `part1_independent.py`. Figure: `figures/part1_strip.png`.
 
-**What Gini and unpredictability each show, in your own words:** XXXX
+**What Gini and unpredictability each show, in your own words:** Gini is measuring inequality amoung artists whos the most popular in that world. (popular  = most downloads) Unpredictability shows that the artists popularity is dependent on it's world you can't compare if they arent in the same world
 
-**What the figure shows, one sentence:** XXXX
+**What the figure shows, one sentence:** It shows that shares of the world depends a lot on the specific world they are in, but the overall true popularity will be high or low on a more general scale (between worlds and in each world specifically)
 
 ## Part 2. The recommender
 
