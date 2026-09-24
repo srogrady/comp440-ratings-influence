@@ -31,11 +31,11 @@ Code: `part1_independent.py`. Figure: `figures/part1_strip.png`.
 
 Code: `recommender.py`, `part2_recommender.py`. Figure: `figures/part2_strip.png`.
 
-**The capabilities and limitations of `top_five`, in your words:** XXXX
+**The capabilities and limitations of `top_five`, in your words:** top five can prioritize the most download artists and show those first, and also only pay attention to previously downloaded artists, and organize a list that gives opportunities to popular/downloaded artists. It can't show artists that arent downloaded at all
 
-**What Claude corrected in your reading, in your words, or "nothing":** XXXX
+**What Claude corrected in your reading, in your words, or "nothing":** Claude corrected my statement that top five can't show artists without downloads, because it actually can but only very early on when less than five artists don't have downloads.
 
-**What changed against Part 1, one sentence:** XXXX
+**What changed against Part 1, one sentence:** none of the true popularity diamonds are fully in their worlds of dots
 
 ## Part 3. Social influence
 
