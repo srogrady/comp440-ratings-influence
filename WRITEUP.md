@@ -68,9 +68,9 @@ Code: `my_recommender.py`, `part4_recommender.py`. Figure: `figures/part4_recomm
 
 ## Part 5. Reflection
 
-**Where this shows up in data you have already handled, or in an interface you use, one sentence:** XXXX
+**Where this shows up in data you have already handled, or in an interface you use, one sentence:** Often social influence helps users find a starting point for what artists, songs, or movies to go check out, but if we don't dig deeper and only click whats put right in front of us you may not find the item(song/movie) that fits your true taste. It shows up perfectly with the Popular on Netflix row because lots of users go there to find something to watch because they value others opinions.
 
-**A moment Claude was wrong or overconfident, or a judgment you kept for yourself, one sentence:** XXXX
+**A moment Claude was wrong or overconfident, or a judgment you kept for yourself, one sentence:** My decision on the by hand test I made a judgement on what artist to choose based on my alignment with my rules, but I knew that it might not align with the actual statistics.
 
 ## Follow-ups
 
