@@ -42,19 +42,19 @@ Code: `recommender.py`, `part2_recommender.py`. Figure: `figures/part2_strip.png
 Code: `my_choice.py`, `hand_check.py`, `part3_influence.py`. Figures: `figures/part3_gini.png`,
 `figures/part3_unpredictability.png`.
 
-**Your rule in your words:** XXXX
+**Your rule in your words:** Placement of artists matters a lot, and downloads are influencial, but it  won't stop users from choosing more niche artists if they are going based on their own taste.
 
-**Hand check, before the table: which artist your rule should favor, and by a little or a lot:** XXXX
+**Hand check, before the table: which artist your rule should favor, and by a little or a lot:** I'm going to go with justin bieber by a very small amount because I'm going off personal true taste more still
 
-**Hand check: whether the table matched what you said:** XXXX
+**Hand check: whether the table matched what you said:** It doesnt but I think i sort of expected that and I think my table is more correct!
 
-**The shape you expect the two curves to have, as you told Claude before the run:** XXXX
+**The shape you expect the two curves to have, as you told Claude before the run:** I think they will be a lot higher inequality at level one so higher gini different worlds would end up being more alike
 
-**What you changed in your rule, at the hand check or after the run, or "nothing":** XXXX
+**What you changed in your rule, at the hand check or after the run, or "nothing":** nothing
 
-**What the two curves show against the paper's Figures 1 and 2, in one or two sentences:** XXXX
+**What the two curves show against the paper's Figures 1 and 2, in one or two sentences:** both the papers figures and my curves positively grow with social influence (so gini increases as social influence increase on both and same with unpredictability)
 
-**Revisited: which of your Part 0 predictions you would now change, and why:** XXXX
+**Revisited: which of your Part 0 predictions you would now change, and why:** I would change 1 because I think downloads are semi important but not the entire thing at all and that depends on what level of social influence we are looking at
 
 ## Part 4. Your recommender
 
